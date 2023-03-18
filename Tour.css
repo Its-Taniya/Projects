@@ -1,0 +1,33 @@
+
+  
+    body{
+        background-image:url("https://www.traveldailymedia.com/assets/2019/08/west-bengal.jpg"),
+                          url("https://5.imimg.com/data5/MK/HM/AB/ANDROID-23254150/darjeeling-honeymoon-tour-travel-packages-jpg-500x500.jpg"),
+                          url("https://img.nayatrip.com/images/state/big/WEST-BENGAL.jpg") ,
+                          url("https://www.fabhotels.com/blog/wp-content/uploads/2019/02/Victoria-Memorial.jpg") ,
+                          url("https://www.travelescape.in/wp-content/uploads/2017/08/Digha-Beach.jpg"),
+                          url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBfJfMicpgo-_wq2lLLTf7kCkIyplLu-_6SjdnQQWNCXctV6-ddrwB0QDFyXSeUsO_XOE&usqp=CAU.jpg");
+                          
+        background-repeat: no-repeat,no-repeat,no-repeat,no-repeat,no-repeat;
+        background-size:19% 50%,19% 50%,19% 50%,19% 50%,19% 50% ,19% 50%;    
+        background-position:0% 0%,20% 0%,40% 0%,60% 0%,80% 0%,100% 0%;
+        background-color: rgba(75, 77, 196, 0.705) ;
+
+                        }
+    .box{
+        width:550px ;
+        height: 300px;
+        margin: 350px auto;
+        color: rgb(33, 177, 224);
+        border-radius: 20px;
+        background-color: rgba(121, 203, 214, 0.534);
+        border: 2px solid rgb(255, 230, 0);
+    }                    
+    .box h1,p{
+        margin:20px 45px;
+        float:left;
+        text-shadow: 2px 2px 2px #a6f75a6c;
+        color: rgb(4, 1, 10);size: 28 px ;font-style:arial;
+        
+    
+    }
